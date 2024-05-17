@@ -1,0 +1,4 @@
+#Fri May 17 15:23:16 ICT 2024
+base.0=D\:\\Game_2D\\Stack_Make\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
